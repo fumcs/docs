@@ -1,0 +1,9 @@
+{
+  "label": "Elective Courses",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Students complete their remaining credits from the elective courses table."
+  }
+}
+

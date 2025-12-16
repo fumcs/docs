@@ -1,0 +1,619 @@
+
+
+ط±غŒط§ط¶غŒ ط¹ظ…ظˆظ…غŒ غ±
+-
+- - ط§ط³طھظˆط§ط±طھطŒ ط¬. (1395). ط­ط³ط§ط¨ ط¯غŒظپط±ط§ظ†ط³غŒظ„ ظˆ ط§ظ†طھع¯ط±ط§ظ„ (ط¬. ط­ظ…غŒط¯غŒطŒ ظ…طھط±ط¬ظ…). طھظ‡ط±ط§ظ†: ظ…ط¤ط³ط³ظ‡ ط¢ظ…ظˆط²ط´غŒ ظˆ ظ†ط´ط±غŒط§طھغŒ ظ…ط¯ط±ط³ظ‡.
+- - ط´ظ‡ط´ظ‡ط§ظ†غŒطŒ ط³. (1396). ط­ط³ط§ط¨ ط¯غŒظپط±ط§ظ†ط³غŒظ„ ظˆ ط§ظ†طھع¯ط±ط§ظ„ (ظˆغŒط±ط§ط³طھ 2). طھظ‡ط±ط§ظ†: ط§ظ†طھط´ط§ط±ط§طھ ظپط§ط·ظ…غŒ.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
+
+
+ط±غŒط§ط¶غŒ ط¹ظ…ظˆظ…غŒ غ²
+-
+- - ط§ط³طھظˆط§ط±طھطŒ ط¬. (1395). ط­ط³ط§ط¨ ط¯غŒظپط±ط§ظ†ط³غŒظ„ ظˆ ط§ظ†طھع¯ط±ط§ظ„ (ط¬. ط­ظ…غŒط¯غŒطŒ ظ…طھط±ط¬ظ…). طھظ‡ط±ط§ظ†: ظ…ط¤ط³ط³ظ‡ ط¢ظ…ظˆط²ط´غŒ ظˆ ظ†ط´ط±غŒط§طھغŒ ظ…ط¯ط±ط³ظ‡.
+- - ط´ظ‡ط´ظ‡ط§ظ†غŒطŒ ط³. (1396). ط­ط³ط§ط¨ ط¯غŒظپط±ط§ظ†ط³غŒظ„ ظˆ ط§ظ†طھع¯ط±ط§ظ„ (ظˆغŒط±ط§ط³طھ 2). طھظ‡ط±ط§ظ†: ط§ظ†طھط´ط§ط±ط§طھ ظپط§ط·ظ…غŒ.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
+
+
+ظ…ط¹ط§ط¯ظ„ط§طھ ط¯غŒظپط±ط§ظ†ط³غŒظ„
+- - ط¸ظ‡ظˆط±غŒ ط²ظ†ع¯ظ†ظ‡طŒ ط­. (ظ…طھط±ط¬ظ…). (1394). ظ…ط¹ط§ط¯ظ„ط§طھ ط¯غŒظپط±ط§ظ†ط³غŒظ„ ظ…ظ‚ط¯ظ…ط§طھغŒ ظˆ ظ…ط³ط§ط¦ظ„ ظ…ظ‚ط¯ظ…ط§طھغŒ ظ…ط±ط²غŒ (ظˆغŒط±ط§غŒط´ غ¹). ط§ظ†طھط´ط§ط±ط§طھ ظپط§ط·ظ…غŒ
+- - Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). Elementary Differential Equations and Boundary Value Problems (11th ed.). Wiley.
+- - Goode, S., & Annin, S. A. (2016). Differential Equations and Linear Algebra by Stephen. Pearson.
+- - Edwards, C. H., & Penney, D. E. (2008). Elementary Differential Equations (6th ed.). Pearson Education, Inc.
+- - Zill, D. G. (2012). A First Course in Differential Equations with Modeling Applications (10th ed.). Brooks/Cole, Cengage Learning.
+
+
+ظ…ط¨ط§ظ†غŒ ع©ط§ظ…ظ¾غŒظˆطھط± ظˆ ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ
+-
+- - Matthes, E. (2019). Python Crash Course: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
+- - Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). Green Tea Press.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. Oâ€™Reilly Media, Inc.
+- - Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media.
+- - Barry, P., & Griffiths, D. (2009). Head First Programming. O'Reilly Media.
+- - Draper, B. (2020). Python Programming: A Complete Guide For Beginners To Master And Become An Expert.
+- - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
+- Some other references: <https://github.com/ambadidi/Python-Books>
+
+
+ع©ط§ط±ع¯ط§ظ‡ ع©ط§ظ…ظ¾غŒظˆطھط± غ±
+ط¯ط± ط§ط®طھغŒط§ط± ظ…ط¯ط±ط³
+
+
+ظ…ط¨ط§ظ†غŒ ط¹ظ„ظˆظ… ط±غŒط§ط¶غŒ
+-
+- - ظ…ظˆط­ط¯طŒ ط¶غŒط§ط، (1379). ط¯ط±ط¢ظ…ط¯غŒ ط¨ظ‡ ظ…ظ†ط·ظ‚ ط¬ط¯غŒط¯. ط§ظ†طھط´ط§ط±ط§طھ ظˆ ط¢ظ…ظˆط²ط´ ط§ظ†ظ‚ظ„ط§ط¨ ط§ط³ظ„ط§ظ…غŒ.
+- - ط¨ط±ط¯ط¬ط±ط¨ط§ظ† طŒ ظ†ط§طµط± (1377). ظ…ط¨ط§ظ†غŒ ظˆ ظ…ظ‚ط¯ظ…ط§طھ ط¹ظ„ظ… ط±غŒط§ط¶غŒ. ظ…ط±ع©ط² ظ†ط´ط± ظ¾ط±ظپط³ظˆط± ط­ط³ط§ط¨غŒ.
+- - ط³ظ¾ظ‡ط±غŒ طŒ ظ…ط­ظ…ط¯ ط±ط¶ط§ (1390). ط¢ط´ظ†ط§ط¦غŒ ط¨ط§ ظ…ط¨ط§ظ†غŒ ط¹ظ„ظˆظ… ط±غŒط§ط¶غŒ. ظ…ط±ع©ط² ظ†ط´ط± ط¢غŒظ†ظ‡.
+- - Halmos, P. R. (2017). I Set Theory. Courier Dover Publications.
+- - Stewart, I., & Tall, D. (2015). The Foundations of Mathematics. Oxford University Press.
+- - Lin, S.-Y. T., & Lin, Y.-F. (1985). Set Theory with Applications. Mancorp Pub.
+
+
+ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ غ±
+-
+- - ط¨ظ‡ط¨ظˆط¯غŒط§ظ†طŒ ط¬ظˆط§ط¯ (1394). ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ ظ…ظ‚ط¯ظ…ط§طھغŒ. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط§ظ…ط§ظ… ط±ط¶ط§.
+- - ظ‚ظ‡ط±ظ…ط§ظ†غŒطŒ ط³ط¹غŒط¯ (1397). ظ…ط¨ط§ظ†غŒ ط§ط­طھظ…ط§ظ„طŒ ظˆغŒط±ط§غŒط´ ط³ظˆظ…طŒ طھط±ط¬ظ…ظ‡ ط´ط§ظ‡ع©ط§ط±طŒ ط؛. ظˆ ط¨ط²ط±ع¯ظ†غŒط§طŒ ط§. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ طµظ†ط¹طھغŒ ط´ط±غŒظپ.
+- - ط±ط§ط³طŒ ط´ظ„ط¯ظˆظ† (1389). ظ…ط¨ط§ظ†غŒ ط§ط­طھظ…ط§ظ„طŒ ظˆغŒط±ط§غŒط´ ظ‡ط´طھظ…طŒ طھط±ط¬ظ…ظ‡ ظ¾ط§ط±ط³غŒط§ظ†طŒ ط§.طŒ ظ‡ظ…ط¯ط§ظ†غŒطŒ ط¹. ط§ظ†طھط´ط§ط±ط§طھ ط´غŒط® ط¨ظ‡ط§غŒغŒ.
+- - ظ‡ط§ع¯طŒ ط±. ظˆ طھظ†غŒط³طŒ ظ„. ط¢. (1394). ط§ط­طھظ…ط§ظ„ ظˆ ط§ط³طھظ†ط¨ط§ط· ط¢ظ…ط§ط±غŒ. طھط±ط¬ظ…ظ‡ ظ†ظˆط±ظˆط² ط§غŒط²ط¯ط¯ظˆط³طھط¯ط§ط± ظˆ ط­ظ…غŒط¯ ظ¾ط²ط´ع©. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ طھظ‡ط±ط§ظ†.
+- - Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th ed.). Pearson.
+- - Josأ© Unpingco (2019). Python for Probability, Statistics, and Machine Learning (2nd ed.). Springer. Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+- - Grimmett, G., & Welsh, D. (2014). Probability: An Introduction (2nd ed.). Oxford University Press.
+- - Ghahramani, S. (2014). Fundamentals of Probability: with Stochastic Process (3rd ed.). CRC Press. 
+
+
+ظ†ط±ظ…â€Œط§ظپط²ط§ط±ظ‡ط§غŒ ط¢ظ…ط§ط±غŒ ظˆ طھط­ظ„غŒظ„ ط¯ط§ط¯ظ‡â€Œظ‡ط§
+-
+- - ع¯ظˆط³طŒ ط¬غŒ ظˆ ظ…ظ†غŒط±ظˆظ¾طŒ ط¯. (1401). ط¢ظ…ط§ط± ط¨ط§ ظ†ط±ظ… ط§ظپط²ط§ط± JMP: ظ†ظ…ظˆط¯ط§ط±ظ‡ط§طŒ ط¢ظ…ط§ط± طھظˆطµغŒظپغŒ ظˆ ط§ط­طھظ…ط§ظ„طŒ طھط±ط¬ظ…ظ‡: ط¨ط²ط±ع¯ظ†غŒط§طŒ ط§.طŒ ظˆ ظ‡ظ…ع©ط§ط±ط§ظ†طŒ ط§ظ†طھط´ط§ط±ط§طھ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯.
+- - ظˆظ†ط§ع©طھطŒ طھ. ع†. ظˆ ظˆظˆظ†ط§ع©طھطŒ ط±. ط¬. (1393). ط¢ظ…ط§ط± ظ…ظ‚ط¯ظ…ط§طھغŒطŒ ط¬ظ„ط¯ 1 ظˆ 2طŒ طھط±ط¬ظ…ظ‡ ظ…ط­ظ…ط¯ط±ط¶ط§ ظ…ط´ع©ط§ظ†غŒطŒ ظ…ط±ع©ط² ظ†ط´ط± ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ.
+- - Goos, P., & Meintrup, D. (2015). Statistics with JMP: Graphs, Descriptive Statistics and Probability. Wiley.
+- - Rahlf, T. (2019). Data Visualisation with R: 111 Examples. Springer
+- - Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
+
+` `آ«ط¯ط±ظˆط³ طھط®طµطµغŒآ»
+![](Aspose.Words.027dad54-58c5-41b8-acd6-4fe5ead1dfc8.007.png)
+
+
+
+ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ ظ¾غŒط´ط±ظپطھظ‡
+-
+- - Horton, I., & Van Weert, P. (2018). Beginning C++17: From Novice to Professional. Apress.
+- - Horton, I., & Van Weert, P. (2020). Beginning C++20: From Novice to Professional. Apress.
+- - Deitel, P., & Deitel, H. (2017). C++ How to Program (11th ed.). Pearson Education.
+
+
+ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ ظ¾ط§غŒطھظˆظ†
+-
+- - Romano, F., Phillips, D., & van Hattem, R. (2016). Python: Journey from Novice to Expert. Packt Publishing.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O'Reilly Media, Inc.
+
+
+ط³ط§ط®طھظ…ط§ظ† ط¯ط§ط¯ظ‡â€Œظ‡ط§
+- ظ‚ط¯ط³غŒطŒ ظ…ط­ظ…ط¯ (غ±غ³غ¹غ³). ط¯ط§ط¯ظ‡â€Œط³ط§ط®طھط§ط±ظ‡ط§ ظˆ ظ…ط¨ط§ظ†غŒ ط§ظ„ع¯ظˆط±غŒطھظ…â€Œظ‡ط§ (ع†ط§ظ¾ ع†ظ‡ط§ط±ظ…). ط§ظ†طھط´ط§ط±ط§طھ ظپط§ط·ظ…غŒ.
+- ظ‚ط¯ط³غŒطŒ ظ…ط­ظ…ط¯طŒ ظˆ ظ†طµغŒط±غŒ ط´ط±ظ‚طŒ ط¢غŒط¯غŒظ† (غ±غ³غ¹غ·). غ¶غ°غ° ظ…ط³ط¦ظ„ظ‡â€ŒغŒ ع†ظ†ط¯ع¯ط²غŒظ†ظ‡â€Œط§غŒ ط§ط² ط¯ط§ط¯ظ‡â€Œط³ط§ط®طھط§ط±ظ‡ط§ ظˆ ط§ظ„ع¯ظˆط±غŒطھظ…â€Œظ‡ط§ (ع†ط§ظ¾ ط´ط´ظ…). ط§ظ†طھط´ط§ط±ط§طھ ظپط§ط·ظ…غŒ
+- - Cormen, T. H. and Leiserson, C. E., Rivest, R. L. and Stein, C. (2009)., Introduction to Algorithms (3rd Ed), MIT Press. 
+- - Manber, U.,  (1989).Introduction to Algorithms: A Creative Approach, Addison-Wesley. 
+- - Sedgewick, R. and Wayne, K., (2011). Algorithms, 4th Ed, Addison-Wesley.
+- - Weiss, M. A., (2012). Data Structures and Algorithm Analysis in C++, 4th Ed, Addison Wesley. 
+- Horowitz and Sahni, Fundamental of Data Structures, 4th Ed., CSP, 1994, (Pascal, C , C++ or Generic version(
+
+
+ط·ط±ط§ط­غŒ ظˆ طھط­ظ„غŒظ„ ط§ظ„ع¯ظˆط±غŒطھظ…â€Œظ‡ط§
+-
+- - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
+- - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
+- - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
+- - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
+- - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
+
+
+
+ع©ط§ط±ع¯ط§ظ‡ ع©ط§ظ…ظ¾غŒظˆطھط± غ²
+ط¯ط± ط§ط®طھغŒط§ط± ظ…ط¯ط±ط³
+
+
+ظ¾ط§غŒع¯ط§ظ‡ ط¯ط§ط¯ظ‡â€Œظ‡ط§
+-
+- - Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems (7th ed.). Pearson.
+- - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts (7th ed.). McGraw-Hill Education.
+- - Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
+- - Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
+- - Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson.
+
+
+ط§طµظˆظ„ ط³غŒط³طھظ…â€Œظ‡ط§غŒ ع©ط§ظ…ظ¾غŒظˆطھط±غŒ
+-
+- - Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
+- - Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)
+
+
+ظ…ط¨ط§ظ†غŒ طھط±ع©غŒط¨غŒط§طھ
+-
+- - ع¯ط±غŒظ…ط§ظ„ط¯غŒطŒ ط±. ظ¾. (غ±غ³غ·غ·). ط±غŒط§ط¶غŒط§طھ ع¯ط³ط³طھظ‡ ظˆ طھط±ع©غŒط¨غŒط§طھغŒطŒ طھط±ط¬ظ…ظ‡ ظ…ط­ظ…ط¯ط¹ظ„غŒ ط±ط¶ظˆط§ظ†غŒ ظˆ ط¨غŒعکظ† ط´ظ…ط³طŒ ط§ظ†طھط´ط§ط±ط§طھ ظپط§ط·ظ…غŒ.
+- - Anderson, I. (1989). A first course in combinatorial mathematics. Clarendon Press.
+- - Grimaldi, R. P. (2006). Discrete and Combinatorial Mathematics (5th ed.). Pearson Education India.
+
+
+ظ…ط¨ط§ظ†غŒ ظ…ظ†ط·ظ‚ ظˆ ظ†ط¸ط±غŒظ‡ ظ…ط¬ظ…ظˆط¹ظ‡â€Œظ‡ط§
+-
+- - Henle, J. M. (1986). An Outline of Set Theory. Springer-Verlag.
+- - Huth, M., & Ryan, M. (2004). Logic in Computer Science: Modelling and reasoning about systems. Cambridge university press.
+
+
+ط¨ظ‡غŒظ†ظ‡â€Œط³ط§ط²غŒ ع¯ط³ط³طھظ‡
+-
+- - ط­ظ…ط¯غŒ ط·ظ‡طŒ (غ±غ³غ¸غ·) ط¢ط´ظ†ط§غŒغŒ ط¨ط§ طھط­ظ‚غŒظ‚ ط¯ط± ط¹ظ…ظ„غŒط§طھ: ط¨ط±ظ†ط§ظ…ظ‡â€Œط±غŒط²غŒ ط®ط·غŒ ظ¾ظˆغŒط§ ظˆ ط¨ط§ ط§ط¹ط¯ط§ط¯ طµط­غŒط­طŒ (ظ…. ط¨ط§ط²ط±ع¯ط§ظ†طŒ ظ…طھط±ط¬ظ…). طھظ‡ط±ط§ظ†: ظ…ط±ع©ط² ظ†ط´ط± ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ.
+- - ظ…ظ‡ط¯غŒ ظ‚ط·ط¹غŒطŒ (1395). طھط­ظ‚غŒظ‚ ط¯ط± ط¹ظ…ظ„غŒط§طھ ظˆ ط¨ظ‡غŒظ†ظ‡â€Œط³ط§ط²غŒ طھط±ع©غŒط¨غŒط§طھغŒ. طھظ‡ط±ط§ظ†: ط§ظ†طھط´ط§ط±ط§طھ ظ†ط§ظ‚ظˆط³.
+- - Lee, J. (2004). A First Course in Combinatorial Optimization. Cambridge University Press.
+- - Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). The MIT Press.
+- - Papadimitriou, C.H., & Steiglitz, R. (1982). Combinatorial Optimization Algorithms and Complexity. Prentice-Hall.
+- - Balakrishnan, V. (1995). Network Optimization. Chapman and Hall/CRC.
+- - Ahuja, R.K., Magnanti, T.L., & Orlin, J.B. (1993). Network Flows: Theory, Algorithms, and Applications. Prentice-Hall.
+
+
+ظ…ط¨ط§ظ†غŒ ظ†ط¸ط±غŒظ‡ ظ…ط­ط§ط³ط¨ظ‡
+-
+- - Sipser, M. (2012). Introduction to the Theory of Computation. Cengage Learning.
+- - Boolos, G., Burgess, J., & Jeffrey, R. (2007). Computability and Logic (5th ed.). Cambridge University Press.
+- - Kozen, D. (2006). Theory of Computation. Springer.
+- - Hedman, S. (2004). A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity. Oxford University Press.
+
+
+ظ…ط¨ط§ظ†غŒ ظ…ط­ط§ط³ط¨ط§طھ ط¹ظ„ظ…غŒ
+-
+- - ظˆظ† ظ„ظˆط§ظ†طŒ ع†ط§ط±ظ„ط² ظپط±ط§ظ†ط³غŒط³ (غ±غ´غ°غ±)طŒ  ظ…ظ‚ط¯ظ…ظ‡ ط§غŒ ط¨ط± ظ…ط­ط§ط³ط¨ط§طھ ط¹ظ„ظ…غŒطŒ طھط±ط¬ظ…ظ‡ ط¯ع©طھط± ظپط§ط¦ط²ظ‡ طھظˆطھظˆظ†غŒط§ظ† ظˆ ط¯ع©طھط± ط¯ط§ظˆط¯ ط®ط¬ط³طھظ‡ ط³ط§ظ„ع©ظˆغŒظ‡.
+- - ع©ط±ط§غŒع†غŒط§ظ†طŒ ط¹. (غ±غ´غ°غ±). ط¬ط¨ط± ط®ط·غŒ ط¨ط§ ظ…طھظ„ط¨. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯
+- - O'Leary, D. P. (2009). Scientific Computing with Case Studies.
+- - Trefethen, L. N., & Bau III, D. (1997). Numerical Linear Algebra (Vol. 50). SI
+
+
+ظ…ط¨ط§ظ†غŒ ط¢ظ†ط§ظ„غŒط² ط¹ط¯ط¯غŒ
+-
+- - Burden, R. L., & Faires, J. D. (2011). Solutions of equations in one variable: the bisection method. Brooks/Cole, Cengage Learning.
+- - Dahlquist, G., & Bjأ¶rck, أ…. (2008). Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics.
+- - Sأ¼li, E., & Mayers, D. F. (2003). An introduction to numerical analysis. Cambridge university press.
+- - Hildebrand, F. B. (1987). Introduction to numerical analysis. Courier Corporation.
+- - Stoer, J., & Bulirsch, R. (2013). Introduction to numerical analysis (Vol. 12). Springer Science & Business Media.
+
+
+ظ…ط¨ط§ظ†غŒ ط¢ظ†ط§ظ„غŒط² ط±غŒط§ط¶غŒ
+-
+- - ظ…غŒط±ط²ط§ ظˆط²غŒط±غŒطŒ ظ…. (غ±غ³غ¸غ¸). ظپط¶ط§ظ‡ط§غŒ ظ…طھط±غŒع© ط¨ط§ ط·ط¹ظ… طھظˆظ¾ظˆظ„ظˆعکغŒ (ع†ط§ظ¾ ط³ظˆظ…). ظ…ط´ظ‡ط¯: ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ.
+- - Rudin, W. (1964). Principles of mathematical analysis (Vol. 3). New York: McGraw-hill.
+- - Gordon, R. A. (2001). Real analysis: A first course. Addison Wesley.
+
+
+طھط­ظ„غŒظ„ ط¢ظ…ط§ط±غŒ ط¯ط§ط¯ظ‡â€Œظ‡ط§
+Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th Ed.). Pearson.
+Unpingco, J. (2019). Python for Probability, Statistics, and Machine Learning (2nd Ed.). Springer. [Source codes available at <https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E>]
+Chan, S. H. (2021). Introduction to Probability for Data Science, Michigan Publishing. [Source codes available at <https://probability4datascience.com/>]
+Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Ed.). O'Reilly Media, Inc.
+Griffiths, D. (2008). Head First Statistics. O'Reilly Media, Inc.
+Wheelan, C. (2014). Naked Statistics: Stripping the Dread from the Data. W. W. Norton & Company.
+AI PUBLISHING. (2021). Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts Using Python.
+
+
+ط³ط±غŒâ€Œظ‡ط§غŒ ط²ظ…ط§ظ†غŒ ع©ط§ط±ط¨ط±ط¯غŒ
+-
+- - ع©ط±ط§غŒط±طŒ ط¬.ط¯.ط› ط³غŒع© ع†ظ†طŒ ع©.  (1392). طھط¬ط²غŒظ‡â€Œظˆطھط­ظ„غŒظ„ ط³ط±غŒâ€Œظ‡ط§غŒ ط²ظ…ط§ظ†غŒ ط¨ط§ ط§ط³طھظپط§ط¯ظ‡ ط§ط² ظ†ط±ظ…â€Œط§ظپط²ط§ط± RطŒ طھط±ط¬ظ…ظ‡ ظ…ط­ظ…ط¯ط±ط¶ط§ ظ…ط´ع©ط§ظ†غŒطŒ ظ…ط±ع©ط² ظ†ط´ط± ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ. 
+- - ط¨ط±ط§ع©ظˆظ„طŒ ظ¾. ظˆ ط¯غŒظˆغŒط³طŒ ط±.ط§. (1384). ظ…ظ‚ط¯ظ…ظ‡â€Œط§غŒ ط¨ط± ط³ط±غŒâ€Œظ‡ط§غŒ ط²ظ…ط§ظ†غŒ ظˆ ظ¾غŒط´â€Œط¨غŒظ†غŒطŒ طھط±ط¬ظ…ظ‡ ط§ظ…غŒظ†غŒطŒ ظ….طŒ  ط¨ط²ط±ع¯ ظ†غŒط§طŒ ط§. ظˆ  ط¯ظ‡ظ‚ط§ظ†طŒ ظ…. ط­. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط³غŒط³طھط§ظ† ظˆ ط¨ظ„ظˆع†ط³طھط§ظ†. 
+- - ع†طھظپغŒظ„ط¯طŒ ع©. (1996). ظ…ظ‚ط¯ظ…ظ‡â€Œط§غŒ ط¨ط± طھط­ظ„غŒظ„ ط³ط±غŒâ€Œظ‡ط§غŒ ط²ظ…ط§ظ†غŒطŒ طھط±ط¬ظ…ظ‡ ط­ط³غŒظ†ط¹ظ„غŒ ظ†غŒط±ظˆظ…ظ†ط¯ ع†ط§ظ¾ ط´ط´ظ…طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯
+- - Shumway, R. H., and Stoffer, D. S. (2019). Time series: a data analysis approach using R. Chapman and Hall/CRC.
+- - Cryer, J. D. and Chan, K. S. (2008). Time Series Analysis With Application in R, 2nd Ed. Springer.
+
+
+غŒط§ط¯ع¯غŒط±غŒ ظ…ط§ط´غŒظ† ظ…ظ‚ط¯ظ…ط§طھغŒ
+-
+- - ط¬ظ…غŒط²طŒ ط¬غŒطŒ ظˆغŒطھظ†طŒ طھغŒطŒ ظ‡غŒط³طھغŒطŒ طھغŒ ظˆ طھغŒط¨ط´غŒط±ط§ظ†غŒطŒ ط¢ط±. (2021). ظ…ظ‚ط¯ظ…ظ‡ ط§غŒ ط¨ط± غŒط§ط¯ع¯غŒط±غŒ ط¢ظ…ط§ط±غŒ ط¨ط§ ظ†ط±ظ… ط§ظپط²ط§ط± RطŒ طھط±ط¬ظ…ظ‡: ظ…ط­ظ…ط¯ظ¾ظˆط±طŒط¹. ظˆ ط§ظ…غŒظ† ط؛ظپط§ط±غŒطŒ ظ….  ([ط¨ط±ظ†ط§ظ…ظ‡â€Œظ‡ط§غŒ ط§غŒظ† ع©طھط§ط¨ ط¨ظ‡ ط²ط¨ط§ظ† ظ¾ط§غŒطھظˆظ†](https://botlnec.github.io/islp/) ظ…ظˆط¬ظˆط¯ظ†ط¯)
+- James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
+- Sugiyama, M. (2015). Introduction to Statistical Machine Learning, Elsevier Science.
+- Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
+- - Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.
+
+
+ط¯ط§ط¯ظ‡â€Œع©ط§ظˆغŒ ظ…ظ‚ط¯ظ…ط§طھغŒ
+-
+- - ط´ظˆظ…غŒظ„غŒطŒ ط¬.طŒ ط¨ط±ظˆع©طŒ ظ¾غŒطŒ غŒط§ظ‡ظˆطŒ ط¢طŒ ظ¾ط§طھظ„طŒ ط§ظ† ظˆ ظ„غŒط®طھظ†ط¯ط§ظ„طŒ ع©. (1400). ط¯ط§ط¯ظ‡â€Œع©ط§ظˆغŒ ط¨ط±ط§غŒ طھط­ظ„غŒظ„ ط®ظˆط¯ع©ط§ط± ع©ط³ط¨â€Œظˆع©ط§ط±: ظ…ظپط§ظ‡غŒظ…طŒ ظپظ†ظˆظ† ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§غŒ RطŒ  طھط±ط¬ظ…ظ‡ ط¯ع©طھط± ظ…ط­ظ…ط¯ط±ط¶ط§ ظپظ‚غŒظ‡غŒ ط­ط¨غŒط¨â€Œط¢ط¨ط§ط¯غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط´ظ‡غŒط¯ ط¨ظ‡ط´طھغŒ. 
+- - ظ…ط±ط§ط¯غŒطŒ ط¹ط¨ط§ط³طŒ ط­ط³غŒظ†â€Œط²ط§ط¯ظ‡طŒ ط¬ظˆط§ط¯طŒ ط´ط¨ط§ع©طŒ ط§ط´ع©ط§ظ†طŒ ع©غŒط§ظ†غŒطŒ ع©ط§ظˆظ‡ ظˆ ط´غŒط±غŒطŒ ظ…ط­ظ…ط¯. (1398). ط¢ط´ظ†ط§غŒغŒ ط¨ط§ ظ…ظپط§ظ‡غŒظ… ظˆ ط±ظˆط´ظ‡ط§غŒ ط¯ط§ط¯ظ‡ ع©ط§ظˆغŒطŒ ظ¾عکظˆظ‡ط´ع©ط¯ظ‡ ط¢ظ…ط§ط±
+- - Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
+- - Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
+- - Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
+- - Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
+- - Zaki, M. J., & Meira, W., (2014)m Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.
+
+
+طھط­ظ‚غŒظ‚ ط¯ط± ط¹ظ…ظ„غŒط§طھ
+-
+- - ط¨ط±طھط³غŒظ…ط§ط³طŒ ط³غŒطھط³غŒع©ظ„غŒط³طŒ (1394). ظ…ظ‚ط¯ظ…ظ‡â€Œط§غŒ ط¨ط± ط¨ظ‡غŒظ†ظ‡â€Œط³ط§ط²غŒ ط®ط·غŒطŒ طھط±ط¬ظ…ظ‡ ط­ظ…غŒط¯ ط§ط³ظ…ط¹غŒظ„غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط¨ظˆط¹ظ„غŒ ط³غŒظ†ط§.
+- - ط­ظ…ط¯غŒ ط·ظ‡طŒ (1387). ط¢ط´ظ†ط§غŒغŒ ط¨ط§ طھط­ظ‚غŒظ‚ ط¯ط± ط¹ظ…ظ„غŒط§طھ: ط¨ط±ظ†ط§ظ…ظ‡â€Œط±غŒط²غŒ ط®ط·غŒ ظ¾ظˆغŒط§ ظˆ ط¨ط§ ط§ط¹ط¯ط§ط¯ طµط­غŒط­طŒ طھط±ط¬ظ…ظ‡ ظ…ط­ظ…ط¯ط¨ط§ظ‚ط± ط¨ط§ط²ط±ع¯ط§ظ†طŒ ظ…ط±ع©ط² ظ†ط´ط± ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ.
+- - ظˆغŒظ†ط³طھظˆظ†طŒ (1380). طھط­ظ‚غŒظ‚ ط¯ط± ط¹ظ…ظ„غŒط§طھطŒ ط¨ط±ظ†ط§ظ…ظ‡â€Œط±غŒط²غŒ ط®ط·غŒ ظˆ ط­ظ…ظ„ ظˆ ظ†ظ‚ظ„طŒ طھط±ط¬ظ…ظ‡ ط³غŒط¯ ط¹ظ„غŒ ظ…غŒط± ط­ط³ظ†غŒ ظˆ ظ…ط­ظ…ط¯ط±ط¶ط§ ط¹ظ„غŒط±ط¶ط§غŒغŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ظ…ط¨طھع©ط±ط§ظ†.
+- - ط¨ط§ط²ط§ط±ط§طŒ ط¬ط§ط±ظˆغŒط³طŒ ط´ط±ط§ظ„غŒطŒ (1392). ط¨ط±ظ†ط§ظ…ظ‡â€Œط±غŒط²غŒ ط®ط·غŒطŒ طھط±ط¬ظ…ظ‡ ط§ط³ظ…ط§ط¹غŒظ„ ط®ط±ظ…طŒ ظ†ط´ط± ع©طھط§ط¨ ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ. 
+
+
+ط¨ظ‡غŒظ†ظ‡â€Œط³ط§ط²غŒ ط؛غŒط±ط®ط·غŒ
+- ظ„ظˆط¦ظ†ط¨ط±ع¯ط±طŒ ط¯. ط¬.طŒ ظ…ظ‡ط¯ظˆغŒ ط§ظ…غŒط±غŒطŒ ظ†.طŒ ظˆ ظ¾ظˆط± ع©ط§ط¸ظ…غŒطŒ ظ…ط­ظ…ط¯ط­ط³غŒظ†. (غ±غ³غ¹غ²). ط¨ط±ظ†ط§ظ…ظ‡â€Œط±غŒط²غŒ ط®ط·غŒ ظˆ ط؛غŒط±ط®ط·غŒ. طھظ‡ط±ط§ظ†: ط¯ط§ظ†ط´ع¯ط§ظ‡ طµظ†ط¹طھغŒ ط´ط±غŒظپ.
+- Bazaraa, M., Sherali, H. D., & Shetty, C. M. (2006). Nonlinear Programming: Theory and Algorithms (3rd ed.). John Wiley & Sons.
+- Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University Press.
+- Chong, E. K. P., & Zak, S. H. (2013). An Introduction to Optimization (4th ed.). Wiley.
+- Griva, I., Nash, S. G., & Sofer, A. (2009). Linear and Nonlinear Optimization (2nd ed.). SIAM.
+- Nocedal, J., & Wright, S. (2006). Numerical optimization (2nd ed.). Springer Series in Operations Research and Financial Engineering.
+- Tibshirani, R. (2013-2019). Convex Optimization [Course]. Carnegie Mellon University.
+- Rao, S. S. (1978). Optimization: Theory and Applications. John Wiley & Sons.
+
+
+ط·ط±ط§ط­غŒ ظˆ طھظˆط³ط¹ظ‡ ع©ط³ط¨ ظˆ ع©ط§ط±ظ‡ط§غŒ ظ†ظˆظ¾ط§
+ظ…ظ†ط§ط¨ط¹ ط¢ط²ط§ط¯ ط¨ط§ ظ†ط¸ط± ط§ط³طھط§ط¯ ط¯ط±ط³
+
+
+ظ…ط¨ط§ظ†غŒ ط§ظ‚طھطµط§ط¯ ط¯غŒط¬غŒطھط§ظ„
+أکverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 
+
+
+ع©ط§ط±ط¢ظ…ظˆط²غŒ
+ط¨ط§ ظ†ط¸ط± ظ…ط¯ط±ط³ ط¯ط±ط³
+
+
+ظ‡ظˆط´ ظ…طµظ†ظˆط¹غŒ
+Russell, S., & Norvig, P., (2020), Artificial intelligence: a modern approach, 4th Edition, PEARSON SERIES.
+Berkeley notes in Intro to Artificial Intelligence course: <https://inst.eecs.berkeley.edu/~cs188>
+آ«ط¯ط±ظˆط³ طھط®طµطµغŒ ط§ط®طھغŒط§ط±غŒآ»
+![](Aspose.Words.027dad54-58c5-41b8-acd6-4fe5ead1dfc8.008.png)
+
+
+ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ غ²
+-
+- - ظ†ط¹ظ…طھ ط§ظ„ظ‡غŒطŒ ظ†. (1394). ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ط§طھ ظ…ظ‡ظ†ط¯ط³غŒ. ط§ظ†طھط´ط§ط±ط§طھ ط¯ظ„ظپع©.
+- - ط±ط§ط³طŒ ط´. ظ….طŒ ط§ط³ط¯غŒطŒ ظ….طŒ ظˆ ط¨ط²ط±ع¯ ظ†غŒط§طŒ ط§. ظ‚. (1382). ظ…ظ‚ط¯ظ…ظ‡â€Œط§غŒ ط¨ط± ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ (ط¨ط±ط§غŒ ط¯ط§ظ†ط´ط¬ظˆغŒط§ظ† ظ…ظ‡ظ†ط¯ط³غŒ ظˆ ط¹ظ„ظˆظ…). ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯.
+- - ط¨ظ‡ط¨ظˆط¯غŒط§ظ†طŒ ط¬. (1383). ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ ظ…ظ‚ط¯ظ…ط§طھغŒ. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط§ظ…ط§ظ… ط±ط¶ط§ (ط¹).
+- - ظ‚ظ‡ط±ظ…ط§ظ†غŒطŒ ط³.طŒ ط´ط§ظ‡ع©ط§ط±طŒ ط؛.طŒ ظˆ ط¨ط²ط±ع¯ ظ†غŒط§طŒ ط§. ظ‚. (1390). ظ…ط¨ط§ظ†غŒ ط§ط­طھظ…ط§ظ„. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯.
+- - Roussas, G. G. (2014). Introduction to probability (2nd ed.). Academic Press.
+
+
+ط¢ظ…ط§ط± ظ…ط­ط§ط³ط¨ط§طھغŒ
+-
+- - ع¯غŒظˆظ†ط²طŒ ط¬ظپâ€Œ ط§ع†â€Œ. (غ±غ³غ¹غ³). ط¢ظ…ط§â€Œط± ظ…ط­ط§â€Œط³ط¨ط§â€ŒطھغŒâ€Œ (ط±ظˆط´â€Œ ط¨ظ‡غŒظ†ظ‡â€Œط³ط§â€Œط²غŒ ط¹ط¯ط¯غŒ)طŒ طھط±ط¬ظ…ظ‡ ظ…ط­ظ…ط¯ط±ط¶ط§ ظ…ط´ع©ط§ظ†غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ظ¾عکظˆظ‡ط´ع©ط¯ظ‡ ط¢ظ…ط§ط±. 
+- Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
+- Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
+- Hأ¤rdle, W. K., Okhrin, O., & Okhrin, Y. (2017).آ Basic elements of computational statistics. Springer.
+
+
+ط±ظˆط´â€Œظ‡ط§غŒ ط¢ظ…ط§ط±غŒ
+\1. ظ†ط¹ظ…طھ ط§ظ„ظ„ظ‡غŒطŒ ظ†ط§ط¯ط± (غ±غ³غ¹غ·). ط±ظˆط´ظ‡ط§غŒ ط¢ظ…ط§ط±غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط¹ظ„ط§ظ…ظ‡ ط·ط¨ط§ط·ط¨ط§غŒغŒ.
+\2. ط¬ط§ظ†ط³ظˆظ†طŒ ط±. ط¢. ظˆ  ط¨ط§طھط§ع†ط§ط±غŒط§طŒ ع¯.طŒ (غ±غ³غ¸غ¸).  ط¢ظ…ط§ط± ط§طµظˆظ„ ظˆ ط±ظˆط´ ظ‡ط§طŒ ط¬ظ„ط¯ غ± ظˆ غ²طŒ طھط±ط¬ظ…ظ‡ ظ…غŒع©ط§ط¦غŒظ„غŒطŒ ظپ.طŒ ط§ظ†طھط´ط§ط±ط§طھ ظ†ط´ط± ط§ط±ع©ط§ظ† ط¯ط§ظ†ط´.
+\3. ظˆظˆظ†ط§ع©طھطŒ طھ. ع†. ظˆ ظˆظˆظ†ط§ع©طھطŒ ط±. ط¬. (غ±غ³غ¹غ³). ط¢ظ…ط§ط± ظ…ظ‚ط¯ظ…ط§طھغŒطŒ ط¬ظ„ط¯ غ± ظˆ غ²طŒ طھط±ط¬ظ…ظ‡ ظ…ط´ع©ط§ظ†غŒطŒ ظ…. ط±.طŒ ط§ظ†طھط´ط§ط±ط§طھ ظ…ط±ع©ط² ظ†ط´ط± ط¯ط§ظ†ط´ع¯ط§ظ‡غŒطŒ 
+\4. ط¨ظ‡ط¨ظˆط¯غŒط§ظ†طŒ ط¬.طŒ ط¢ظ…ط§ط± ظˆ ط§ط­طھظ…ط§ظ„ ظ…ظ‚ط¯ظ…ط§طھغŒ (غ±غ³غ¹غ´).  ع†ط§ظ¾ ع†ظ‡ظ„ظ…طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¢ط³طھط§ظ† ظ‚ط¯ط³ ط±ط¶ظˆغŒ. 
+\5. ط·ط§ظ‡ط±غŒطŒ ط³.ظ…. (غ±غ³غ¹غ¹). ط§ط­طھظ…ط§ظ„ ظˆ ط¢ظ…ط§ط± ظ…ظ‡ظ†ط¯ط³غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ طھظ‡ط±ط§ظ†. 
+\6. Agresti, A.,  Franklin, C. Klingenberg, B.(2018). The art and science of learning from data.آ Peatson.
+\7. Wilcox, R. R. (2016).آ Understanding and applying basic statistical methods using R. John Wiley & Sons.
+
+
+ظ†ط¸ط±غŒظ‡ ظ…ط­ط§ط³ط¨ظ‡
+-
+- - Sipser, M. (2003). Introduction to the Theory of Computation. 3th Edition, ACM Sigact News, 27(1), 27-29.
+- - Cooper, S. Barry. (2003) Computability theory. CRC Press.
+- - M. Divis, R. Sigal, E. Weyuker, (1997), Computability, Complexity, and Languages. 2nd Edition, Academic Press. 
+
+
+ظ…ظ†ط·ظ‚ ط¨ط±ط§غŒ ط¹ظ„ظˆظ… ع©ط§ظ…ظ¾غŒظˆطھط±
+-
+- - Huth, M., Ryan, M. (2020), Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University.
+
+
+
+ظ†ط¸ط±غŒظ‡ ظ…ظ‚ط¯ظ…ط§طھغŒ ع©ط¯ع¯ط°ط§ط±غŒ
+-
+- - Hill, R. (2001). A First Course in Coding Theory (11th ed.). Oxford Applied Mathematics and Computers Science Series, Clarendon Press.
+- - Roman, S. (1992). Coding and Information. Springer.
+- - Ling, S., & Xing, C. (2014). Coding Theory: A First Course. Cambridge University Press.
+
+
+ط±ظ…ط²ظ†ع¯ط§ط±غŒ
+-
+- - Katz, J., & Lindell, Y. (2007). Introduction to Modern Cryptography. CRC Press.
+- - Goldreich, O. (2001). Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press.
+- - Goldreich, O. (2004). Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press.
+- - Menezes, A. J., van Oorschot, P. C., & Vanstone, S. A. (1996). Handbook of Applied Cryptography. CRC Press.
+
+
+ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ ط§ظ…ظ†
+-
+- - Chest, B., & West, J. (2007). Secure Programming with Static Analysis. Addison Wesley.
+- - McGraw, G. (2006). Software Security. Addison Wesley.
+
+
+ظ…ط¹ظ†ط§ط´ظ†ط§ط³غŒ ط¹ظ…ظ„غŒط§طھغŒ ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ
+-
+- - Winskel, G., (1994), The Formal Semantics of Programming Languages An Introduction, The MIT Press, 
+
+
+ط¢ط´ظ†ط§غŒغŒ ط¨ط§ ظ†ط¸ط±غŒظ‡ ط¨ط§ط²غŒâ€Œظ‡ط§
+- ط¹ط¨ط¯ظ„غŒطŒ ظ‚ظ‡ط±ظ…ط§ظ† (1398). ظ†ط¸ط±غŒظ‡ ط¨ط§ط²غŒظ‡ط§ ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§غŒ ط¢ظ† (ط¨ط§ط²غŒظ‡ط§غŒ ط§ط·ظ„ط§ط¹ط§طھ ظ†ط§ظ‚طµ طŒ طھع©ط§ظ…ظ„غŒ ظˆ ظ‡ظ…ع©ط§ط±ط§ظ†ظ‡)طŒ ط§ظ†طھط´ط§ط±ط§طھ ط³ظ…طھ. 
+- ط¹ط¨ط¯ظ„غŒطŒ ظ‚ظ‡ط±ظ…ط§ظ† (1399). ظ†ط¸ط±غŒظ‡ ط¨ط§ط²غŒ ظ‡ط§ ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§غŒ ط¢ظ† (ط¨ط§ط²غŒظ‡ط§غŒ ط§غŒط³طھط§ ظˆ ظ¾ظˆغŒط§ ط¨ط§ ط§ط·ظ„ط§ط¹ط§طھ ع©ط§ظ…ظ„)طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¬ظ‡ط§ط¯ ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ. 
+- ط³ظˆط±غŒطŒ ط¹ظ„غŒ. (1400). ظ†ط¸ط±غŒظ‡ ط¨ط§ط²غŒâ€Œظ‡ط§ ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§غŒ ط§ظ‚طھطµط§ط¯غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ظ†ظˆط± ط¹ظ„ظ….
+- ط²غŒع¯ظپط±غŒط¯طŒ طھط§ظ…. (1399). ط±غŒط§ط¶غŒط§طھ ط²غŒط¨ط§: ط¬ط§ظ† ظ†ط´طŒ ظ†ط¸ط±غŒظ‡ ط¨ط§ط²غŒ ظ‡ط§طŒ ظˆ ط¬ط³طھ ظˆ ط¬ظˆغŒ ط±ظ…ط² ط·ط¨غŒط¹طھطŒ طھط±ط¬ظ…ظ‡ طµط§ط¯ظ‚غŒطŒ ظ…ظ‡ط¯غŒطŒ ظ†ط´ط± ظ†غŒ.
+- Rasmusen, E. (1990). Games and information. An introduction to game theory.Wiley.  
+#
+
+
+ط§ظ„ع¯ظˆط±غŒطھظ…â€Œظ‡ط§غŒ طھطµط§ط¯ظپغŒ
+-
+- - Motwani, R., & Raghavan, P. (1995). Randomized Algorithms. Cambridge University Press.
+- - Matouإ،ek, J., & Vondrأ،k, J. (2001). The Probabilistic Method [Lecture Notes]. Department of Applied Mathematics, Charles University.
+- - Mitzenmacher, M., & Upfal, E. (2005). Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press.
+
+
+ظ‡ظ†ط¯ط³ظ‡ ظ…ط­ط§ط³ط¨ط§طھغŒ
+-
+- - Berg, M., Cheong, O., van Kreveld, M., & Overmars, M. (2008). Computational Geometry: Algorithms and Applications (3rd ed.). Springer-Verlag.
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+- - Boissonnat, J.-D., & Yvinec, M. (1998). Algorithmic Geometry. Cambridge University Press.
+- - Devadoss, S. L., & O'Rourke, J. (2011). Discrete and Computational Geometry. Princeton University Press.
+- - Edelsbrunner, H. (1987). Algorithms in Combinatorial Geometry. Springer.
+- - Goodman, J. E., O'Rourke, J., & Tأ³th, C. D. (Eds.). (2017). Handbook of Discrete and Computational Geometry (3rd ed.). CRC Press.
+- - Har-Peled, S. (2011). Geometric Approximation Algorithms. AMS Press.
+- - Matouإ،ek, J. (2002). Lectures on Discrete Geometry. Springer.
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+- - Preparata, F. P., & Shamos, M. I. (1985). Computational Geometry: An Introduction. Springer.
+
+
+ط±ع¯ط±ط³غŒظˆظ† غ±
+-
+- - ظ…ظˆظ†طھع¯ظ…ط±غŒطŒ ط¯.طŒ  ظ¾ع©طŒ ط¢ ظˆ ط¬ط§ظپط±غŒطŒ ظˆ. (غ±غ³غ¹غµ). ظ…ظ‚ط¯ظ…ظ‡ ط§غŒ ط¨ط± طھط­ظ„غŒظ„ ط±ع¯ط±ط³غŒظˆظ† ط®ط·غŒطŒ طھط±ط¬ظ…ظ‡: ط§ط³ظ…ط§ط¹غŒظ„ ط²ط§ط¯ظ‡طŒ  ظ†ط¨ط²طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ع©ط±ط¯ط³طھط§ظ†.
+- - ط§ظ…غŒظ†غŒطŒ ظ…. ط²ظ…ط§ظ†غŒطŒ ط­. ط±ظˆط²ط¨ظ‡طŒ ظ….  (غ±غ³غ¹غ¸). طھط­ظ„غŒظ„ ط±ع¯ط±ط³غŒظˆظ† ظ¾غŒط´ط±ظپطھظ‡ ط¨ط§ RطŒ ط§ظ†طھط´ط§ط±ط§طھ ظ¾ط§ط±ط³غŒط§ظ†. 
+- - Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
+- - Olive, D. (2017). Linear Regression, Springer.
+- - Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
+- - Weisberg, S. (2013).آ Applied linear regression. John Wiley.
+- - Chatterjee, S., & Hadi, A. S. (2013).آ Regression analysis by example. John Wiley.
+
+
+
+ظ‡ظˆط´ ظ…ط­ط§ط³ط¨ط§طھغŒ
+-
+- - Keller, J. M., Liu, D., & Fogel, D. B. (2016). Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation. Wiley.
+- - Engelbrecht, P. (2007). Computational Intelligence: An Introduction. Wiley.
+- - Konar, A. (2007). Computational Intelligence: Principles, Techniques and Applications. Springer.
+
+
+ظ‡ظˆط´ طھط¬ط§ط±غŒ ظ…ظ‚ط¯ظ…ط§طھغŒ
+طھط§ط±ط®طŒ ظ…ط­ظ…ط¯ ط¬ط¹ظپط± ظˆ ظ…ظ‡ط§ط¬ط±غŒطŒ ط­ط³غŒظ† (1392). ظ‡ظˆط´ طھط¬ط§ط±غŒ ظ†ع¯ط±ط´غŒ ظ¾ظˆغŒط§ ط¯ط± ط¹ط±طµظ‡ ع©ط³ط¨ ظˆ ع©ط§ط±طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط®ظˆط§ط¬ظ‡ ظ†طµغŒط±. 
+- Vercellis, C. (2011).آ Business intelligence: data mining and optimization for decision making. John Wiley.
+- Azevedo, A. and Santos, M. F. (Eds.). (2020).آ Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
+- Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
+- Sauter, V. L. (2014).آ Decision support systems for business intelligence. John Wiley & Sons.
+- Clark, D. (2019).آ Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
+- Seamark, P. (2018).آ Beginning DAX with Power BI: The SQL Proâ€™s Guide to Better Business Intelligence. Apress.
+
+
+ط¢ط´ظ†ط§غŒغŒ ط¨ط§ غŒط§ط¯ع¯غŒط±غŒ ط¹ظ…غŒظ‚
+-
+- - ظ†غŒظ„ط³ظ†طŒ ظ…. (غ±غ´غ°غ°). ط´ط¨ع©ظ‡â€Œظ‡ط§غŒ ط¹طµط¨غŒ ظˆ غŒط§ط¯ع¯غŒط±غŒ ط¹ظ…غŒظ‚طŒ طھط±ط¬ظ…ظ‡: ط¬ط§ظˆط¯ط§ظ†غŒ ع¯ظ†ط¯ظ…ط§ظ†غŒطŒ ظپط±ظˆط²ظ†ط¯ظ‡طŒ ط³ط¹غŒط¯ ظˆ ظ‡ط§ط¯غŒ ط®ط³ط±ظˆغŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ط¬ظ‡ط§ط¯ ط¯ط§ظ†ط´ع¯ط§ظ‡غŒ ع†ظ‡ط§ط±ظ…ط­ط§ظ„ ظˆ ط¨ط®طھغŒط§ط±غŒ. 
+- - Stevens, E., Antiga, L., & Viehmann, T. (2020). Deep Learning with PyTorch. Manning Publications.
+- - Chollet, F. (2017). Deep Learning with Python. Manning Publications.
+- - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+- - Lantz, B. (2019). Machine Learning with R: Expert Techniques for Predictive Modeling. Packt Publishing.
+- - Pattanayak, S. (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python. Apress.
+- - Nielsen, M. (2015). Neural Networks and Deep Learning. Determination Press.
+-
+
+
+طھط¬ط§ط±طھ ط§ظ„ع©طھط±ظˆظ†غŒع©
+-
+- - Turban, E., King, D., Lee, J. K., Liang, T.-P., & Turban, D. C. (2018). Electronic Commerce: A Managerial and Social Networks Perspective (8th ed.). Springer.
+
+
+ظ…ط¯ظ„ط³ط§ط²غŒ ط±غŒط§ط¶غŒ
+-
+- - Crauder, B., Evans, A., & Noell, J. (2010). Functions and Change (5th ed.). Houghton Mifflin.
+- - Alder, M. (2001). An Introduction to Mathematical Modeling. HeavenForBooks.com.
+- - Oden, J. T. (2011). An Introduction to Mathematical Modeling: A Course in Mechanics (1st ed.). Wiley Series in Computational Mechanics.
+- - Ledder, G. (2013). Mathematics for Life Sciences: Calculus, Modeling, Probability and Dynamical Systems. Springer.
+
+
+ط¢ط²ظ…ط§غŒط´ع¯ط§ظ‡ ط±غŒط§ط¶غŒ
+Chapra, S. C. (n.d.). Applied Numerical Methods with MATLAB.
+Lopez, C. P. (n.d.). Matlab Symbolic Algebra and Calculus Tools.
+Don, E. (n.d.). Mathematica.
+
+
+ط±غŒط§ط¶غŒط§طھ ظپط§ط²غŒ
+- Wang, L. X. (1996). A course in fuzzy systems and control.
+- Klir, G. J., & Youn, B. (1995). Fuzzy set and fuzzy logic: Theory and applications.
+- Bede, B. (2013). Mathematics of fuzzy sets and fuzzy logic.
+- Yager, R. R., & Negoyen, H. T. (1987). Fuzzy set and applications.
+
+
+ظ†ط¸ط±غŒظ‡ ع¯ط±ط§ظپ ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§
+-
+- - 1. Diestel, R. (2017). Extremal Graph Theory. In Graph Theory (pp. 173-207). Springer, Berlin Heidelberg.
+- - 2. West, D. B. (1996). Introduction to Graph Theory: Vol. 2. Prentice Hall.
+- - 3. Bondy, J. A., & Murty, U. S. R. (1976). Graph Theory with Applications: Vol. 290. Macmillan, London..
+
+
+ظ…ط¨ط§ظ†غŒ ط¬ط¨ط±
+-
+- - Gallian, J. (2012), Contemporary abstract algebra. Nelson Education,
+- - Kleiner, I., (2007), A history of abstract algebra. Springer Science & Business Media.
+
+
+ظ…ط¨ط§ظ†غŒ ط¢ظ†ط§ظ„غŒط² ظپظˆط±غŒظ‡ ظˆ ظ…ظˆط¬ع© ظ‡ط§
+- - Frazier, M. W. (1999). An introduction to wavelets through linear algebra. Springer Science & Business Media.
+- - Hubbard, B. B. (2001). The world according to wavelets (2nd ed.). AK Peters.
+- - Narcowich, D. F. J., & Boggess, A. (2001). A first course in wavelets with Fourier analysis. Prentice Hall.
+- - Van Fleet, F. P. J. (1996). Discrete wavelet transforms: An elementary approach with applications. John Wiley & Sons. 
+
+
+ظ¾ط±ط¯ط§ط²ط´ طھطµظˆغŒط± ظ…ظ‚ط¯ظ…ط§طھغŒ
+-
+- - ط¹ظ„غŒط§ط¦غŒ ط·ط±ظ‚ط¨ظ‡طŒ ظ…. ط­. (1400). ط¢ظ…ظˆط²ط´ ط¬ط§ظ…ط¹ ظ¾ط±ط¯ط§ط²ط´ طھطµظˆغŒط± ط¨ط§ OpenCV ظˆ Python. ط§ظ†طھط´ط§ط±ط§طھ ظ…غŒط¹ط§ط¯ ط§ظ†ط¯غŒط´ظ‡.
+- - ع©غŒط§ظ†غŒطŒ ظˆ. (1402). ظ¾ط±ط¯ط§ط²ط´ طھطµط§ظˆغŒط± ط¯ط± ظ¾ط§غŒطھظˆظ†: ط±ط§ظ‡ظ†ظ…ط§غŒ ط³ط±غŒط¹ OpenCV. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط¨ط¬ظ†ظˆط±ط¯.
+- - Dey, S. (2018). Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data. Packt Publishing.
+- - Chityala, R., & Pudipeddi, S. (2021). Image Processing and Acquisition using Python. Chapman & Hall.
+
+
+ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ ظ…ظˆط¨ط§غŒظ„
+-
+- - Murphy, M. L. (2011). The busy coder's guide to Android development. CommonsWare.
+- - Neuburg, M. (2018). iOS 12 Programming Fundamentals with Swift. O'Reilly Media.
+
+
+ط¨ط±ظ†ط§ظ…ظ‡â€Œظ†ظˆغŒط³غŒ ظˆط¨
+-
+- - Schafer, S. M. (2010). HTML, XHTML, and CSS Bible (5th ed.). Wiley Publishing.
+- - Forcier, J., Bissex, P., & Chun, W. (2009). Python web development with Django. Pearson Addison-Wesley.
+- - Chun, W. J. (2012). Core Python applications programming (3rd ed.). Pearson Addison-Wesley.
+- - Fowler, M., Rice, D., Foemmel, M., Hieatt, E., Mee, R., & Stafford, R. (2003). Patterns of enterprise application architecture. Pearson Addison-Wesley.
+
+
+ط´ط¨ع©ظ‡â€Œظ‡ط§غŒ ع©ط§ظ…ظ¾غŒظˆطھط±غŒ
+-
+- - Peterson, L. L., & Davie, B. S. (2011). Computer Networks: A Systems Approach. 5th Edition. Morgan Kaufmann Publishers.
+
+
+
+ط´ط¨غŒظ‡â€Œط³ط§ط²غŒ ع©ط§ظ…ظ¾غŒظˆطھط±غŒ
+-
+- - Wainer, G. A. (2017). Discrete-Event Modeling and Simulation: A Practitioner's Approach. CRC Press.
+- - Banks, J. (2005). Discrete Event System Simulation. Pearson Education India.
+- - Banks, J. (Ed.). (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice. John Wiley & Sons.
+
+
+ع¯ط±ط§ظپغŒع© ع©ط§ظ…ظ¾غŒظˆطھط±غŒ
+-
+- - Hearn, D., & Baker, M. P. (2011). Computer Graphics with OpenGL. 4th Edition. Prentice Hull.
+- - Marschner, S., & Shirley, P. (2016). Fundamentals of Computer Graphics. 4th Edition. CRC Press.
+- - Angel, E. (2002). OpenGL: A Primer. Addison Wesley.
+
+
+طھط­ظ„غŒظ„ ط´ط¨ع©ظ‡â€Œظ‡ط§غŒ ط§ط¬طھظ…ط§ط¹غŒ
+- Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press.
+
+
+ط³غŒط³طھظ…â€Œظ‡ط§غŒ ط¹ط§ظ…ظ„
+-
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2013). Operating System Concepts, Ninth Edition. John Wiley & Sons, Inc.
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2009). Operating System Concepts with Java. Wiley Publishing.
+- - Tanenbaum, A., & Woodhull, A. S. (2009). Operating Systems: Design and Implementation. Pearson.
+
+
+ط§طµظˆظ„ ط·ط±ط§ط­غŒ ظ†ط±ظ…â€Œط§ظپط²ط§ط±
+- - Sommerville, I. (2010). Software Engineering, 9th Edition. Addison Wesley.
+- - Ghezzi, C., Jazayeri, M., & Mandrioli, D. (2003). Fundamentals of Software Engineering. Prentice Hall.
+- - Ng, P. A. B., & Yeh, R. T. (1990). Modern Software Engineering: Foundations and Current Perspectives. Van Nostrand Reinhold.
+- - Pressman, R. S., & Roger, P. (2009). Software Engineering: A Practitioner's Approach. 7th Edition. McGraw Hill.
+
+
+ع©ط§ظ…ظ¾ط§غŒظ„ط±
+-
+- - Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2007). Compilers: Principles, Techniques, and Tools. 2nd Edition. Pearson.
+- - Thain, D. (2020). Introduction to Compilers and Language Design. 2nd Edition. Retrieved from http://compilerbook.org
+- - Cooper, K. D., & Torczon, L. (2012). Engineering a Compiler. 2nd Edition. Elsevier.
+
+
+ظ…ط¨ط§ط­ط«غŒ ط¯ط± ط¹ظ„ظˆظ… ع©ط§ظ…ظ¾غŒظˆطھط± غ±
+ط¯ط± ط§ط®طھغŒط§ط± ظ…ط¯ط±ط³
+
+
+ظ…ط¨ط§ط­ط«غŒ ط¯ط± ط¹ظ„ظˆظ… ع©ط§ظ…ظ¾غŒظˆطھط± غ²
+ط¯ط± ط§ط®طھغŒط§ط± ظ…ط¯ط±ط³
+
+
+ظ…ط¨ط§ظ†غŒ ط¨غŒظˆط§ظ†ظپظˆط±ظ…ط§طھغŒع©
+-
+- - ظ†ظ‚ظˆغŒطŒ ظ…. ط±طŒ ظ…ظ„ط¨ظˆط¨غŒطŒ ظ…. ط¹ ظˆ ط±ط´غŒط¯غŒطŒ ط³ (غ±غ³غ¹غ¸). ط¨غŒظˆط§ظ†ظپظˆط±ظ…ط§طھغŒع© (ط¯ط§ط¯ظ‡â€Œظ¾ط±ط¯ط§ط²غŒ ط²غŒط³طھغŒ)طŒ ع†ط§ظ¾ ع†ظ‡ط§ط±ظ…طŒ  ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ طھظ‡ط±ط§ظ†. 
+- - Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
+- - Sensen, C. W. (2002).آ Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
+- - Curry, E. (2020).آ Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
+- - Sinha, P. P. (2014).آ Bioinformatics with R cookbook. Birmingham: Packt Publishing.
+- - Mathur, S. K. (2009).آ Statistical bioinformatics with R. Academic Press.
+-
+
+
+ظ¾ط±ظˆعکظ‡ ع©ط§ط±ط´ظ†ط§ط³غŒ
+ط¨ط§ ظ†ط¸ط± ظ…ط¯ط±ط³ ط¯ط±ط³
+
+-
+
+
+ط¢ظ†ط§ظ„غŒط² ط¹ط¯ط¯غŒ
+- Burden, R. L., & Faires, J. D. (2011). Numerical Analysis. Cengage Learning.
+
+
+ط¢ط´ظ†ط§غŒغŒ ط¨ط§ ع©ظ„ط§ظ† ط¯ط§ط¯ظ‡â€Œظ‡ط§
+-
+- - ظ…ط§ط±طŒ ط¨ط±ظ†ط§ط±ط¯ (1396). [ط¯ط§ط¯ظ‡â€Œظ‡ط§غŒ ط¨ط²ط±ع¯ ط§ط±طھظ‚ط§غŒ طھطµظ…غŒظ… ع¯غŒط±غŒ ظˆ ط¹ظ…ظ„ع©ط±ط¯ ط¨ط§ ط§ط³طھظپط§ط¯ظ‡ ط§ط² ط¯ط§ط¯ظ‡â€Œظ‡ط§غŒ ط¨ط²ط±ع¯ ظ‡ظˆط´ظ…ظ†ط¯: طھط­ظ„غŒظ„ ط´ظ†ط§ط³غŒ ظˆ ظ…ط¹غŒط§ط±ظ‡ط§](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)طŒ طھط±ط¬ظ…ظ‡: ظ…ظˆط³غŒ ط®ط§ظ†غŒطŒ ظ…ط±طھط¶غŒطŒ ط§ظ†طھط´ط§ط±ط§طھ ط¢ظˆظ†ط¯ ط¯ط§ظ†ط´. 
+- - EMC Education Services. (2015).آ Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
+- - Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
+- - Sarangi, S., and Sharma, P. (2019).آ Big Data: A Beginnerâ€™s Introduction. Routledge.
+- - Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021).آ Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.
+
+
+ظپط±ط¢غŒظ†ط¯ظ‡ط§غŒ طھطµط§ط¯ظپغŒ
+- 1.ط¬ظˆظ†ط² ظˆ ط§ط´ظ…غŒطھ (2010). ظ…ظ‚ط¯ظ…ظ‡ ط§غŒ ط¨ط± ظپط±ط¢غŒظ†ط¯ظ‡ط§غŒ طھطµط§ط¯ظپغŒ(1396) طھط±ط¬ظ…ظ‡. ظ…ط­ظ…ط¯ ط§ظ…غŒظ†غŒ ظˆ ط§ط¨ظˆط§ظ„ظ‚ط§ط³ظ… ط¨ط²ط±ع¯ ظ†غŒط§. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯.
+- 2. ط¯ظˆط¨ط±ظˆطŒ ط±ط§ط¨ط±طھ ظ¾غŒ. (1398). ظ…ظ‚ط¯ظ…ظ‡ ط§غŒ ط¨ط± ظپط±ط¢غŒظ†ط¯ظ‡ط§غŒ طھطµط§ط¯ظپغŒ ط¨ط§ RطŒ طھط±ط¬ظ…ظ‡: ظ…ظˆط³ظˆغŒطŒ ط³. ظ†.طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط§ط±ط§ع©. 
+  - Jones, P.W. and Smith, P., (2018). Stochastic Processes: An Introduction, 2nd Ed., CRC Press.
+  - Durrett. R. (2016). Essentials of Stochastic Processes. Third Edition, Springer. 
+  - Robert P. Dobrow. (2016). Introduction to Stochastic Processes with R. John Wiley.
+  - Bhat, N. and Miller, K., (2002). Elements of Applied Stochastic Processes, 3rd Ed., John Wiley.
+  - Bremaud, P. M, (1999). Markov Chains, Gibbs fields, Monte Carlo Simulation and Queues, Springer.
+  - Korosteleva, O. (2022).آ Stochastic Processes with R: An Introduction. CRC Press.
+
+
+
+ظ…ط¨ط§ظ†غŒ ط±ط§غŒط§ظ†ط´ ط§ط¨ط±غŒ
+-
+- - Chandrasekaran, K. (2014). Essentials of Cloud Computing. CRC Press.
+- - Ruparelia, N. B. (2016). Cloud Computing. MIT Press.
+- - Erl, T., Mahmood, Z., & Puttini, R. (2013). Cloud Computing: Concepts, Technology, and Architecture. Prentice Hall.
+- - Ganelin, I., Orhian, E., Sasaki, K., & York, B. (2016). Spark: Big Data Cluster Computing in Production. 1st Edition. Wiley.
+- - White, T. (2015). Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale. 4th Edition. O'Reilly Media.
+- - Geng, H. (2014). Data Center Handbook. 1st Edition. Wiley.
+- - Adkins, S., Belamaric, J., & Giersch, V. (2015). OpenStack Cloud Application Development. Wrox.
+- - Antony, B., Boudnik, K., & Adams, C. (2016). Professional Hadoop. 1st Edition. Wrox.
+- - 
+
+
+ط±ط§غŒط§ظ†ط´ ع†ظ†ط¯â€Œظ‡ط³طھظ‡â€Œط§غŒ
+-
+- - Patterson, D. A., & Hennessy, J. L. (2019). Computer Architecture: A Quantitative Approach. Morgan Kaufmann.
+- - Sanders, J., & Kandrot, E. (2011). CUDA by Examples: An Introduction to GPU Programming. Addison-Wesley.
+- - Kirk, D. B., & Hwu, W. W. (2010). Programming Massively Parallel Processors: A Hands-On Approach. NVIDIA.
+- - McCool, M., Robison, A. D., & Reinders, J. (2012). Structured Parallel Programming. Elsevier.
+-
+
+
+ط³غŒع¯ظ†ط§ظ„â€Œظ‡ط§ ظˆ ط³غŒط³طھظ…â€Œظ‡ط§
+-
+- - Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1997). Signals and Systems. 2nd Edition. Prentice-Hall.
+
+
+ظ…ط¯غŒط±غŒطھ ظ¾ط±ظˆعکظ‡â€Œظ‡ط§غŒ ظپظ†ط§ظˆط±غŒ ط§ط·ظ„ط§ط¹ط§طھ
+-
+- - Marchewka, J. T. (2014). Information Technology Project Management. Wiley.
+
+
+
+ط¬ط¨ط± ط®ط·غŒ
+- - ط¯ط§طھط§طŒ ط¨.طŒ (غ±غ³غ¹غµ). ط¬ط¨ط± ط®ط·غŒ ط¹ط¯ط¯غŒ ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§ (ط¬ظ„ط¯ غ± ظˆ غ²). طھط±ط¬ظ…ظ‡ ط¯ع©طھط± ظپط§ط¦ط²ظ‡ طھظˆطھظˆظ†غŒط§ظ†طŒ ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯
+- - ع©ط±ط§غŒع†غŒط§ظ†طŒ ط¹. (غ±غ´غ°غ±). ط¬ط¨ط± ط®ط·غŒ ط¨ط§ ظ…طھظ„ط¨. ط§ظ†طھط´ط§ط±ط§طھ ط¯ط§ظ†ط´ع¯ط§ظ‡ ظپط±ط¯ظˆط³غŒ ظ…ط´ظ‡ط¯
+- - Boyd, S., & Vandenberghe, L. (2018). Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares.
+- - Axler, S. (2015). Linear Algebra Done Right. Springer.
+
+
+ط¨ط§ط²غŒâ€Œط³ط§ط²غŒ ظˆ ط¨ط§ط²غŒâ€Œط§ظ†ع¯ط§ط±غŒ
+-
+- - Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
+- - Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
+[^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
+[^2]: ["Computer Science as a Profession"](https://web.archive.org/web/20080617030847/http:/www.csab.org/comp_sci_profession.html). Computing Sciences Accreditation Board. May 28, 1997.
+[^3]: [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+[^4]: ط¯ط± طھط¯ظˆغŒظ† ط§غŒظ† ط¨ط±ظ†ط§ظ…ظ‡ ط¯ط±ط³غŒطŒ ط¨ط±ظ†ط§ظ…ظ‡â€Œظ‡ط§غŒ ط¯ط±ط³غŒ ظ…طµظˆط¨ ظˆط²ط§ط±طھ ط¯ط± ط³ط§ظ„ظ‡ط§غŒ غ±غ³غ¹غ¹ طھط§ غ±غ´غ°غ± ط¨ط±ط§غŒ ط±ط´طھظ‡â€Œظ‡ط§غŒ ط¹ظ„ظˆظ… ع©ط§ظ…ظ¾غŒظˆطھط±طŒ ط±غŒط§ط¶غŒط§طھ ظˆ ع©ط§ط±ط¨ط±ط¯ظ‡ط§ ظˆ ط¢ظ…ط§ط± ظˆ ظ‡ظ…ع†ظ†غŒظ† ط¨ط±ظ†ط§ظ…ظ‡ ط¯ط±ط³غŒ ظ…ظ‡ظ†ط¯ط³غŒ ع©ط§ظ…ظ¾غŒظˆطھط± ظˆط²ط§ط±طھ ط¹ظ„ظˆظ… ظˆ ع†ظ†ط¯ ط¯ط§ظ†ط´ع¯ط§ظ‡ ط¯ط§ط®ظ„غŒ (ظ…ظ†ط¬ظ…ظ„ظ‡ طµظ†ط¹طھغŒ ط´ط±غŒظپطŒ طھظ‡ط±ط§ظ† ظˆ ط§ظ…غŒط±ع©ط¨غŒط±) ظˆ ط®ط§ط±ط¬غŒ ظ…ظˆط±ط¯ ظ…ظ„ط§ط­ط¸ظ‡ ظ‚ط±ط§ط± ع¯ط±ظپطھظ‡â€Œط§ظ†ط¯.
+[^5]: Andrew Ng

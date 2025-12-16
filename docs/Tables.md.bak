@@ -1,0 +1,9 @@
+---
+dir: ltr
+---
+
+# Backup of course tables (English)
+
+This backup file originally stored a right-to-left Persian version of the course tables.
+The authoritative left-to-right English version now lives in `Tables.md` in this directory.
+
